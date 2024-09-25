@@ -1,0 +1,1025 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.master {
+    height: 46.25rem;
+    width: 100%;
+    background-color: #f3f7ec;
+}
+
+.upper {
+    background-color: #F3F7EC;
+    display: flex;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    padding: 0.3125rem 0.625rem 0.625rem 0.625rem;
+}
+
+p {
+    margin: 0;
+}
+
+.myclass2 {
+    width: 9%;
+    height: 1.25rem;
+    font-size: 1.2rem;
+    font-weight: 550;
+    color: black;
+    background-color: transparent;
+    z-index: +1;
+}
+
+.mrgn {
+    margin-bottom: 60px;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+img {
+    width: 100%;
+    background-size: cover;
+    height: auto;
+    opacity: 0.3;
+    background-color: transparent;
+}
+
+.globe {
+    width: 43.75rem;
+    height: 53.125rem;
+    position: absolute;
+    top: -9.375rem;
+    right: 0px;
+    background-color: transparent;
+}
+
+.head2 {
+    background-color: #F3F7EC;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.875rem;
+}
+
+.head1 {
+    margin-bottom: 9.375rem;
+    background-color: #F3F7EC;
+}
+
+.text1 {
+    position: absolute;
+    height: 37.5rem;
+    width: 100%;
+    background-color: transparent;
+}
+
+.anker {
+    height: 3.125rem;
+    width: 11.25rem;
+    background-color: transparent;
+    position: absolute;
+    right: 20.75rem;
+    top: 33.5rem;
+}
+
+.anker2 {
+    height: 3.125rem;
+    width: 11.25rem;
+    background-color: transparent;
+    position: absolute;
+    right: -3.125rem;
+    top: -4.375rem;
+}
+
+.anker3 {
+    height: 3.125rem;
+    width: 18.75rem;
+    background-color: transparent;
+    position: absolute;
+    right: -18.75rem;
+    top: -1.875rem;
+}
+
+.anker4 {
+    height: 3.125rem;
+    width: 9.375rem;
+    background-color: transparent;
+    position: absolute;
+    right: -12.5rem;
+    top: -15.625rem;
+}
+
+.small {
+    background-color: transparent;
+    margin-left: 2.5rem;
+    font-weight: 490;
+}
+
+.large {
+    background-color: transparent;
+}
+
+.large1 {
+    width: 37.5rem;
+    padding: 1.875rem 2.5rem 1.875rem 2.5rem;
+    background-color: transparent;
+}
+
+.large2 {
+    width: 25rem;
+    background-color: transparent;
+    margin: 0px 0px 1.875rem 2.5rem;
+    font-weight: 490;
+    font-size: 1rem;
+    color: black;
+}
+
+.large3 {
+    width: 28.125rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: transparent;
+    font-weight: 500;
+    margin-bottom: 1.875rem;
+}
+
+.large4 {
+    width: 25rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: transparent;
+    font-weight: 500;
+    margin-bottom: 1.875rem;
+}
+
+.large4 span {
+    border: 0.6px solid black;
+    border-radius: 1.875rem;
+    padding: 0.625rem;
+}
+
+.large4 span:hover {
+    color: white;
+    background-color: black;
+}
+
+.operations {
+    display: flex;
+    margin: 3.75rem 0rem 6.25rem 0rem;
+}
+
+.OOPs {
+    height: inherit;
+    width: 50%;
+    margin: 0px 0px 0px 2.5rem;
+}
+
+.ops1 {
+    width: 21.875rem;
+    margin-bottom: 1.875rem;
+}
+
+.ops2 {
+    width: 5rem;
+    height: 4.375rem;
+    border-radius: 50%;
+    border: 0.5px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    margin-left: 31.25rem;
+}
+
+.ops2:hover {
+    background-color: black;
+    color: #f3f7ec
+}
+
+.ops3 {
+    width: 18.75rem;
+    color: black;
+    font-size: 1rem;
+    font-weight: 490;
+    margin: 1.875rem 0px 6.25rem 0px;
+}
+
+
+.img2 {
+    /* width: 37.5rem;*/
+    height: 20rem;
+    opacity: 1.2;
+}
+
+.operationimg {
+
+    background-color: #F3F7EC;
+    opacity: 1.5;
+}
+
+.proof {
+    height: 12.5rem;
+    margin-left: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.proof h1 {
+    width: 18.75rem;
+    margin-bottom: 1.875rem;
+}
+
+.proof1 {
+    display: flex;
+    align-items: center;
+}
+
+.proof1 span {
+    padding-right: 10rem;
+}
+
+.it {
+    height: 37.5rem;
+    margin-left: 2.5rem;
+    display: flex;
+    margin-bottom: 6.25rem;
+}
+
+.itimg {
+    width: 65%;
+    height: 37.5rem;
+}
+
+.itimg img {
+    height: 32.5rem;
+    opacity: 1.2;
+}
+
+.ittxt {
+    width: 13.125rem;
+    margin: 0.438rem 0px 0px 2.5rem;
+}
+
+.ittxt ul {
+    margin: 0.625rem 0px 0.938rem 0px;
+}
+
+.list-group-item {
+    border-bottom: 0.5px solid black;
+    width: 14rem;
+    font-weight: 500;
+}
+
+.butt {
+    border-radius: 1.875rem;
+    color: #F3F7EC;
+    padding: 0.75rem;
+    background-color: black;
+}
+
+.section {
+    margin: 0px 2.5rem 12.5rem 2.5rem;
+    height: 20.625rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card img {
+    opacity: 1.2;
+}
+
+.card {
+    border: none;
+    width: 20rem;
+}
+
+
+.card a {
+    text-decoration: none;
+    padding-bottom: 0.375rem;
+    font-weight: 500;
+}
+
+.card-body p {
+    font-weight: 500;
+}
+
+.suites {
+    margin: 0px 2.5rem 3.75rem 2.5rem;
+    background-color: #0A1524;
+    border-radius: 1.25rem;
+    height: 45.625rem;
+    color: #F3F7EC;
+}
+
+.s1 {
+    padding: 2.5rem 0px 2.5rem 2.5rem;
+    border-top-left-radius: 1.25rem;
+    border-top-right-radius: 1.25rem;
+    display: flex;
+    height: 16.563rem;
+}
+
+.s1 p {
+    width: 21.875rem;
+    margin-left: 9.375rem;
+}
+
+.s1 span {
+    margin-left: 31.25rem;
+}
+
+.s2 img {
+    height: auto;
+}
+
+.card {
+    height: 25rem;
+    margin-right: 0.25rem;
+    border-radius: 1.875rem;
+}
+
+.s2 {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    margin: 0px 2.5rem 6.25rem 2.5rem;
+    background-color: #F0FBB9;
+    border-radius: 1.25rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxtxt {
+    padding: 2.813rem 0px 0px 2.5rem;
+}
+
+.boxtxt p {
+    width: 21.875rem;
+    padding: 0.938rem 0px 0.5rem 0px;
+    font-weight: 490;
+}
+
+.boxtxt button {
+    border-radius: 1.563rem;
+    padding: 0.5rem 0.938rem 0.5rem 0.938rem;
+    background-color: black;
+    color: #F3F7EC;
+}
+
+.boximg img {
+
+    height: 37.5rem;
+    opacity: 1.2;
+    border-bottom-right-radius: 1.25rem;
+}
+
+.foot1 {
+
+    background-color: #FDFCF8;
+}
+
+.foot2 {
+    display: flex;
+}
+
+.sec {
+    height: 33.125rem;
+    width: 25%;
+    border-right: 0.5px solid rgba(0, 0, 0, 0.324);
+    border-top: 0.5px solid rgba(0, 0, 0, 0.324);
+}
+
+.sec1 img {
+    width: 10.625rem;
+    height: 6.25rem;
+    margin: 1.563rem 0px 0px 2.5rem;
+    opacity: 1.2;
+}
+
+.sec p {
+    margin: 0;
+    margin-left: 2.5rem;
+}
+
+.sec1 button {
+    padding: 0.625rem 0.938rem 0.625rem 0.938rem;
+    margin: 1.563rem 0px 0px 2.5rem;
+    background-color: black;
+    color: white;
+    border-radius: 25px;
+}
+
+.foot3 {
+    display: flex;
+    background-color: #2A3646;
+    height: 3.75rem;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.icon1 {
+    display: flex;
+
+    width: 10rem;
+}
+
+.sec h6 {
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.myclass3 {
+    width: 2.8rem;
+    display: flex;
+    justify-content: space-around;
+    font-size: 2rem;
+}
+
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+    .myclass2 {
+        font-size: 0.8rem;
+    }
+
+    .upper,
+    .head2 {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+
+    .large1 {
+        font-size: 1.4rem;
+        margin-left: 10px;
+        padding: 0 0 8px 0;
+        width: inherit;
+    }
+
+    .large2 {
+        font-size: 0.9rem;
+        margin-left: 10px;
+        padding: 0 0 8px 0;
+        width: fit-content;
+    }
+
+    .large3 {
+        width: 100%;
+    }
+
+    .large4 {
+        width: 100%;
+    }
+
+    .small {
+        margin: 100px 0 30px 10px;
+    }
+
+    .large1 h1 {
+        text-decoration: solid;
+        font-weight: 800;
+    }
+
+    .large4 span {
+        padding: 0.5rem;
+        font-size: 0.8rem;
+    }
+
+    .globe {
+        width: fit-content;
+    }
+
+    .anker {
+        font-size: 0.68rem;
+        position: absolute;
+        right: 10.75rem;
+        top: 23.5rem;
+    }
+
+    .anker3 {
+        width: 100px;
+        position: absolute;
+        right: -4rem;
+        top: 0.2rem;
+    }
+
+    .anker4 {
+        width: 100px;
+        position: absolute;
+        right: -10rem;
+        top: -8rem;
+    }
+
+    .operations {
+        flex-direction: column-reverse;
+        margin: 100px 10px 80px 10px;
+
+    }
+
+    .ops2 {
+        margin: auto;
+    }
+
+    .lolly {
+        object-fit: cover;
+        border: 0.3px solid black;
+    }
+
+    .lolly p {
+        margin: 0;
+    }
+
+    .card {
+        height: 100%;
+        margin-top: 50px;
+        width: 100%;
+        margin-right: 0;
+    }
+
+    .section {
+        height: 100%;
+        width: 100%;
+        flex-direction: column;
+        margin: 0 0 100px 0;
+        padding: 0 8px 0 8px;
+    }
+
+    .it {
+        margin: 0 0 80px 0;
+        height: 100%;
+        display: block;
+    }
+
+    .butt {
+        padding: 0.4rem;
+        font-size: 0.8rem;
+    }
+
+    .ittxt {
+        margin-left: 10px;
+        width: fit-content;
+    }
+
+    .list-group-item {
+        width: 100%;
+    }
+
+    .OOPs {
+        margin: 0;
+        width: 100%;
+    }
+
+    .ops1 {
+        width: 100%;
+        font-size: 1.4rem;
+    }
+
+    .ops3 {
+        width: 100%;
+        font-size: 0.8rem;
+        margin-bottom: 30px;
+    }
+
+    .OOPs img {
+        width: 100%;
+        background-size: cover;
+    }
+
+    .operationimg {
+        width: 100%;
+    }
+
+    .itimg {
+        width: 100%;
+        height: auto;
+    }
+
+    .proof {
+        margin-left: 10px;
+    }
+
+    .proof1 span {
+        padding: 0;
+        padding-left: 10px;
+    }
+
+    .suites {
+        height: 100%;
+        margin: 0 8px 80px 8px;
+    }
+
+    .s1 {
+        height: fit-content;
+        flex-direction: column;
+        font-size: 0.8rem;
+        padding: 20px;
+    }
+
+    .s1 p {
+        width: fit-content;
+    }
+
+    .s1 span {
+        display: none;
+    }
+
+    .s2 {
+        height: fit-content;
+        flex-direction: column;
+        align-items: center;
+        padding: 15px;
+    }
+
+    .polly {
+        margin-bottom: 15px;
+    }
+
+    .box {
+        flex-direction: column;
+        align-items: center;
+        margin: 0 8px 80px 8px;
+
+    }
+
+    .boximg img {
+        width: 100%;
+        height: auto;
+    }
+
+    .sec {
+        width: 50%;
+    }
+
+    .sec1,
+    .sec2,
+    .sec3,
+    .sec4 {
+        height: 100%;
+        display: block;
+        font-size: 0.8rem;
+    }
+
+    .sec1,
+    .sec1 button {
+        text-align: center;
+        margin: 0;
+    }
+
+    .boxtxt p {
+        width: 100%;
+        font-size: 0.9rem;
+    }
+
+    .sec1 img {
+        width: 100%;
+        margin: 0 0 180px 0;
+    }
+
+    .sec1 p {
+        margin: 0;
+        width: 100%;
+        display: inline;
+
+    }
+
+    .sec2 p,
+    .sec3 p,
+    .sec4 p {
+        margin: 2px 0 0 8px;
+    }
+
+    .sec2 h6,
+    .sec3 h6,
+    .sec4 h6 {
+        margin: 15px 0 15px 10px;
+    }
+
+    .mrgn {
+        margin-bottom: 0px;
+    }
+
+    .foot2 {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-bottom: 8px;
+    }
+
+    .foot3 {
+        height: fit-content;
+        font-size: 0.4rem;
+    }
+
+    .foot3 p {
+        margin: 0;
+        padding-right: 2px;
+    }
+}
+
+@media (max-width: 428px) and (min-width: 380px) {
+    .anker {
+        font-size: 0.5rem;
+        position: absolute;
+        right: 7.75rem;
+        top: 20.5rem;
+    }
+
+    .anker3 {
+        width: 100px;
+        position: absolute;
+        right: -4rem;
+        top: 0.2rem;
+    }
+
+    .anker4 {
+        width: 100px;
+        position: absolute;
+        right: -6rem;
+        top: -6rem;
+    }
+
+}
+
+@media (max-width: 380px) {
+    .anker {
+        font-size: 0.4rem;
+        position: absolute;
+        right: 4.75rem;
+        top: 18.5rem;
+    }
+
+    .anker2 {
+        width: 100px;
+        position: absolute;
+        right: 1rem;
+        top: -2rem;
+    }
+
+    .anker3 {
+        width: 100px;
+        position: absolute;
+        right: -4rem;
+        top: 0.2rem;
+    }
+
+    .anker4 {
+        width: 100px;
+        position: absolute;
+        right: -6rem;
+        top: -7rem;
+    }
+
+}
+
+
+/* Desktop */
+@media (min-width: 769px) and (max-width: 1202px) {
+    .myclass2 {
+        font-size: 1rem;
+    }
+
+    .upper,
+    .head2 {
+        display: flex;
+    }
+
+
+    .large1 {
+        font-size: 1.6rem;
+        margin-left: 10px;
+        padding: 0 0 8px 0;
+    }
+
+    .large2 {
+        font-size: 1rem;
+        margin-left: 10px;
+        padding: 0 0 8px 0;
+    }
+
+    .small {
+        margin: 100px 0 30px 10px;
+    }
+
+    .large1 h1 {
+        text-decoration: solid;
+        font-weight: 800;
+    }
+
+    .large4 span {
+        padding: 0.5rem;
+        font-size: 0.8rem;
+    }
+
+    .globe {
+        width: fit-content;
+    }
+
+    .anker {
+        font-size: 0.68rem;
+        position: absolute;
+        right: 10.75rem;
+        top: 23.5rem;
+    }
+
+    .anker3 {
+        width: 100px;
+        position: absolute;
+        right: -4rem;
+        top: 0.2rem;
+    }
+
+    .anker4 {
+        width: 100px;
+        position: absolute;
+        right: -10rem;
+        top: -8rem;
+    }
+
+    .operations {
+        margin: auto;
+        margin: 50px 0 50px 10px;
+    }
+
+    .ops2 {
+        margin: auto;
+    }
+
+    .lolly {
+        object-fit: cover;
+        border: 0.3px solid black;
+    }
+
+    .lolly p {
+        margin: 0;
+    }
+
+    .card {
+        margin-top: 20px;
+    }
+
+    .section {
+        height: 100%;
+        margin: 0 8px 100px 8px;
+    }
+
+    .it {
+        margin: 0 0 80px 0;
+        height: 100%;
+    }
+
+    .butt {
+        padding: 0.4rem;
+        font-size: 0.8rem;
+    }
+
+    .ittxt {
+        margin-left: 10px;
+        width: fit-content;
+    }
+
+    .list-group-item {
+        width: 100%;
+    }
+
+    .OOPs {
+        margin: 0;
+    }
+
+    .OOPs img {
+        width: 100%;
+        background-size: cover;
+    }
+
+    .operationimg {
+        width: 70%;
+    }
+
+    .itimg {
+        width: 100%;
+        height: auto;
+    }
+
+    .proof {
+        margin-left: 10px;
+    }
+
+    .proof1 span {
+        padding: 0;
+        padding-left: 20px;
+    }
+
+    .suites {
+        height: 100%;
+        margin: 0 8px 80px 8px;
+    }
+
+    .s1 {
+        height: fit-content;
+        flex-direction: column;
+        font-size: 0.8rem;
+        padding: 20px;
+    }
+
+    .s1 p {
+        width: fit-content;
+        font-size: 0.9rem;
+    }
+
+    .s1 span {
+        display: none;
+    }
+
+    .s2 {
+        height: fit-content;
+        padding: 15px;
+        align-items: center;
+    }
+
+    .polly {
+        margin-bottom: 15px;
+    }
+
+    .box {
+        flex-direction: column;
+        align-items: center;
+        margin: 0 8px 80px 8px;
+
+    }
+
+    .boximg img {
+        width: 100%;
+        height: auto;
+    }
+
+    .sec1,
+    .sec2,
+    .sec3,
+    .sec4 {
+        height: 100%;
+        display: block;
+        font-size: 0.8rem;
+    }
+
+    .sec1,
+    .sec1 button {
+        text-align: center;
+        margin: 0;
+    }
+
+    .sec1 img {
+        width: 100%;
+        margin: 0 0 180px 0;
+    }
+
+    .sec1 p {
+        margin: 0;
+        width: 100%;
+        display: inline;
+
+    }
+
+    .sec2 p,
+    .sec3 p,
+    .sec4 p {
+        margin: 2px 0 0 8px;
+    }
+
+    .sec2 h6,
+    .sec3 h6,
+    .sec4 h6 {
+        margin: 15px 0 15px 10px;
+    }
+
+    .mrgn {
+        margin-bottom: 0px;
+    }
+
+    .foot2 {
+        flex-direction: row;
+        width: 100%;
+        margin-bottom: 8px;
+    }
+
+    .foot3 {
+        height: fit-content;
+        font-size: 0.55rem;
+    }
+
+    .foot3 p {
+        margin: 0;
+        padding-right: 2px;
+    }
+}
